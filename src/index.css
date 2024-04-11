@@ -62,6 +62,8 @@ main {
   color: white;
   border: none;
   cursor: pointer;
+  height: 40px;
+  font-size: 1rem;
 }
 
 /* Meme Styles */
@@ -134,6 +136,8 @@ main {
 
   .form--button {
     grid-column: 1;
+    height: 35px;
+    font-size: 0.875rem;
   }
 
   .meme {
@@ -179,6 +183,7 @@ main {
 
   .form--button {
     font-size: 0.875rem;
+    height: 30px;
   }
 
   .meme {
